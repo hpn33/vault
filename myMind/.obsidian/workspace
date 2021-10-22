@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "4827c4700d41fb75",
+    "type": "split",
+    "children": [
+      {
+        "id": "be508a99d0a7eb91",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "talk title.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e4c2ac20534803a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e61f7b900ae5144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35ee8ce3472c56d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa499390f2d20a66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19c87e7324054b7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd6b562694b674e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "037aa3cc613ae8be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "talk title.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "be508a99d0a7eb91",
+  "lastOpenFiles": [
+    "talk title.md"
+  ]
+}

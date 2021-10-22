@@ -7,49 +7,9 @@
         "id": "e3b8b4033f538135",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "داروها/دسته بندی/سویق ها.md",
-            "mode": "source"
-          }
-        },
-        "group": "866f5f44d7bdeb33"
-      },
-      {
-        "id": "e5a77220df224ed6",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "داروها/دسته بندی/سویق ها.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.36288736930121185,
-              "close": false
-            }
-          }
-        },
-        "group": "866f5f44d7bdeb33"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "کتاب",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "داروها/دسته بندی/سویق ها.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +84,15 @@
   },
   "active": "e3b8b4033f538135",
   "lastOpenFiles": [
+    "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/فصل ها/مغز و اعصاب و روان.md",
+    "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری.md",
+    "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/فصل ها/درمان بیماری های عمومی.md",
+    "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/فصل ها/خلاصه ای از مزاج شناسی اسلامی و درمان.md",
     "داروها/دسته بندی/سویق ها.md",
     "داروها/دارو های طب اسلامی.md",
-    "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/فصل ها/درمان بیماری های عمومی.md",
     "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/فصل ها/درمان بیماری های عمومی/درمان تب زیاد.md",
     "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/فصل ها/بیماری های پوست و مو.md",
-    "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری.md",
     "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/فصل ها/خوراکی های درمانی.md",
-    "داروها/دسته بندی/سویق.md",
-    "Untitled.md",
-    "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/داروها/سویق.md"
+    "داروها/دسته بندی/سویق.md"
   ]
 }
