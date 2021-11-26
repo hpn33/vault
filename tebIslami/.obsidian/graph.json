@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#مفرد",
+      "color": {
+        "a": 1,
+        "rgb": 14111456
+      }
     }
   ],
   "collapse-display": false,
@@ -34,11 +41,11 @@
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.452991452991453,
-  "repelStrength": 9.74358974358974,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 11.7977528089888,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.16449373298723433,
-  "close": false
+  "scale": 0.04600252088943262,
+  "close": true
 }

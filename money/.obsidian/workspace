@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "18cd1fc080e88951",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fee05977b977458",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "6.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42408bb2b6becf2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a1655de56d9213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a93544d4d7f401",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2342d551dda3b7ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#جذب-مشتری",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d14337938587353",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdeae7d29ea9c17b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "571fd382e3cb253d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0fee05977b977458",
+  "lastOpenFiles": [
+    "6.md",
+    "راهکارها/2.md",
+    "26.md",
+    "صد راهکار طلایی.md",
+    "32.md",
+    "31.md",
+    "30.md",
+    "29.md",
+    "28.md",
+    "36.md"
+  ]
+}

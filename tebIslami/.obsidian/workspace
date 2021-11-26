@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ace0ac19b382c05a",
+        "id": "5d73980631ac77a2",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "مرکب ۴",
+                "query": "انغوزه",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "570fd40faee6df43",
@@ -71,7 +72,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -79,20 +80,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ace0ac19b382c05a",
+  "active": "5d73980631ac77a2",
   "lastOpenFiles": [
-    "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری.md",
-    "0 start.md",
-    "مرکب ۴.md",
-    "تب و لرز.md",
-    "لیست داروهای طب اسلامی.md",
-    "کتاب/(کتاب (درمانگری طب اسلامی درمان ۵۰۰ بیماری/فصل ها/درمان بیماری های عمومی/تب زیاد.md",
-    "واریس.md",
-    "ارتوپدی ( استخوان، مفاصل و عضلات ).md",
-    "قلب و عروق خون و بیماری های تنفسی.md",
-    "درمان بیماری های گوش.md"
+    "جوزبویا.md",
+    "مرکب یک ( رب سفرجل )( ابن بسطام ).md",
+    "دارچین.md",
+    "زنجبیل.md",
+    "پوست تنه درخت میخک.md",
+    "فلفل دراز.md",
+    "فلفل سیاه.md",
+    "روغن گل سرخ.md",
+    "آب به.md",
+    "عسل.md"
   ]
 }
