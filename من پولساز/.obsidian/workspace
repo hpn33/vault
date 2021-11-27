@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4- جلسه 2-2.md",
+            "file": "s/چرایی.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4- جلسه 2-2.md",
+                "file": "s/چرایی.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "575286d5d58439c5",
   "lastOpenFiles": [
+    "s/چرایی.md",
     "4- جلسه 2-2.md",
     "لیست سرگرمی های پیدا و پنهان.md",
     "s/مشخصات شغلی که میخوام.md",
