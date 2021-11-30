@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "s/خواسته ها.md",
+            "file": "s/چرایی.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "s/خواسته ها.md",
+                "file": "s/چرایی.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "575286d5d58439c5",
   "lastOpenFiles": [
+    "s/چرایی.md",
+    "s/مشخصات شغلی که میخوام.md",
     "s/خواسته ها.md",
+    "7- 3 - 2-1.md",
     "s/باورهایی که باید اضافه شود.md",
     "8- 3 - 2-2.md",
-    "7- 3 - 2-1.md",
     "6- 3 - 1-2.md",
     "5- 3 - 1-1.md",
     "تمرکز برای رسیدن به خواسته ها.md",
-    "ترکیب تمرین درخواست وتمرینهای دیگر.md",
-    "s/چرا من ارزشمندم.md",
-    "s/چرایی.md"
+    "ترکیب تمرین درخواست وتمرینهای دیگر.md"
   ]
 }
